@@ -6,8 +6,19 @@ navbar:
     - text: "staRt"
       href: index.html
     - text: "Kurser"
+      icon: ion-ios-lightbulb-outline
       menu:
         - text: "Kom i gang med R"
-          href: grundlaeggende.html
+          href: komigang.html
+        - text: "Virksomhedskursus i R"
+          href: virksomhedskursus.html
     - text: "Om os"
       href: about.html
+    - text: "Tilmeld dig nyhedsbrevet"
+      icon: ion-ios-email-outline
+      href: http://eepurl.com/ceuXhL
+    - text: "Gratis e-bog"
+      icon: ion-ios-book-outline
+      href: https://www.saxo.com/dk/kom-i-gang-med-r_pdf_9788799924905
+html_document:
+  theme: flatly

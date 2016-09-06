@@ -1,0 +1,53 @@
+---
+title: "Kursus: Kom i gang med R"
+---
+<a href="http://www.eventbrite.com/e/kursus-kom-i-gang-med-r-tickets-27549254562?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=27549254562" alt="Eventbrite - Kursus: Kom i gang med R" /></a>
+
+**Kom i gang med R** er et rigtigt godt begynder kursus i R, til dem som aldrig har arbejdet med R før eller som har været væk fra R i et stykke tid.
+
+Fokus er på at få dig i gang med med R. Det betyder at du lærer, hvordan du læser data ind, hvordan du manipulerer med data, hvordan du analyserer på data og hvordan du visualiserer dit data.
+
+Med dine nye færdigheder vil du kunne arbejde hurtigere og mere effektivt med R og du vil opleve, at du kan effektivisere og i nogen grad automatisere dit analysearbejde.
+
+### Om R
+R er et gratis programmeringssprog og softwaremiljø til statistiske beregninger og grafiske repræsentationer. R sproget bruges vidt og bredt blandt statistikere og dataminere når de skal udvikle statistiske programmer og dataanalyser. Meningsmålinger og spørgeskemaundersøgelser blandt dataminere viser at R’s popularitet og anvendelse er steget kraftigt de seneste par år.
+
+### Hvad får du ud af kurset?
+Du bliver god til et værktøj med mange åbenlyse fordele:
+
+* **R er gratis** – Det koster ikke noget at downloade og bruge. Det betyder at du kan anvende det efter din studietid, ligegyldigt hvilket job du får. En SPSS eller SAS licens derimod koster flere tusinde kroner om måneden.
+* **R er open-source** – Det vedligeholdes af en stor gruppe internationale forskere og opdateres løbende og alle har mulighed for at lave apps (kaldet pakker) med specialfunktioner. Derfor er R hurtigere up-to-date og har oftest langt flere muligheder end kommercielle programmer.
+* **R er fleksibelt** – Funktioner og kommandoer kan kombineres til nye funktioner og kommandoer. Du kan selv lave præcis de funktioner du har brug for.
+
+På kurset får du svar på:
+
+* Hvordan installerer jeg R og RStudio og hvordan virker de?
+* Hvad er pakker og funktioner og hvordan installerer jeg dem?
+* Hvordan indlæser jeg data og hvilke pakker kan jeg bruge til det?
+* Hvordan manipulerer jeg med data og hvilke pakker kan jeg bruge til det?
+* Hvordan visualiserer jeg mine data og hvilke pakker kan jeg bruge til det?
+
+Du får introduktion til en brugervenlig grafisk brugerflade:
+
+* RStudio – et såkaldt “integrated development environment” til R med mange muligheder
+
+### Deltagere
+Kurset henvender sig til personer, der ikke har nogen eller kun ret få R kundskaber.
+
+### Du får
+* Frokost / Aftensmad     
+* Masser af opgaver til forskellige emner     
+* Hjælp til dine egne opgaver i R. Tag dem med så ser vi på dem sammen
+
+### Varighed
+ca. 7 timer
+
+### Kursusform
+Instruktør-undervisning
+
+### Pris
+5.000 DKK, ex moms
+
+<a href="http://www.eventbrite.com/e/kursus-kom-i-gang-med-r-tickets-27549254562?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=27549254562" alt="Eventbrite - Kursus: Kom i gang med R" /></a>
+
+**OBS: Kurserne gennemføres kun, hvis der er nok tilmeldte.**

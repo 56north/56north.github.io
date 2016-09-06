@@ -1,5 +1,5 @@
 ---
-title: "R"
+title: "Velkommen"
 ---
 
 ```{r, include=FALSE}
@@ -13,8 +13,16 @@ R er super fedt. Men den fornemmelse har du nok allerede fået siden du har valg
 
 R er en af grundstenene i moderne data science. R har udviklet sig fra primært at være et statistisk værktøj, til nu at være data science's svar på fold-ud-kniven. Med R kan du fx lave avancerede analyser, der indhenter data gennem API'er eller webskrab og spytter det ud i flote interaktive visualiseringer. 
 
-Dertil kommer at R er open source og gratis, så du kan komme i gang med det samme uden at have den store pengepung op af lommen til dyre softwarelicenser. Det er også R's open source natur, der gør, at der hver dag bliver lavet nye udvidelser til R. Det er disse udvidelser, der især gør R til et meget kraftfuldt værktøj. I skrivende stund har R mere end `r round(package_count/100)*100` udvidelser! (Da denne hjemmeside er skrevet i R, sørger R iøvrigt for at opdatere det tal hver gang jeg opdaterer siden - smart!)
+Dertil kommer at R er open source og gratis, så du kan komme i gang med det samme uden at have den store pengepung op af lommen til dyre softwarelicenser. Det er også R's open source natur, der gør, at der hver dag bliver lavet nye udvidelser til R. Det er disse udvidelser, der især gør R til et meget kraftfuldt værktøj. I skrivende stund har R mere end **`r round(package_count/100)*100`** udvidelser! Med alt fra psykometriske analyser til skabelsen af interaktive kort. Da denne hjemmeside er skrevet i R, sørger R iøvrigt for at opdatere det tal, hver gang jeg opdaterer siden - smart!
 
-Men R har også en stejl læringskurve. Du skal lære at kode - det er der ingen vej uden om. Men når du er kommet op på toppen af læringskurven, så er udsigten helt fantastisk. 
+Men R har også en stejl læringskurve. Du skal lære at kode - det er der ingen vej uden om. Men når du er kommet op på toppen af læringskurven, så er udsigten helt fantastisk og du har næsten uanede analysemuligheder.
 
-Jeg vil gerne hjælpe dig på vej op af kurven. Du BOG
+Jeg vil gerne hjælpe dig på vej op af kurven. Der er tre nemme trin, der kan få dig i gang:
+
+1. Download min **GRATIS** e-bog: [*Kom i gang med R*](https://www.saxo.com/dk/kom-i-gang-med-r_pdf_9788799924905)
+2. Tilmeld dig mit [**nyhedsbrev**](http://eepurl.com/ceuXhL), der indeholder fede tips til R
+3. Meld dig på et af kurserne her på siden
+
+BOOK din plads på det næste kursus:
+
+<a href="http://www.eventbrite.com/e/kursus-kom-i-gang-med-r-tickets-27549254562?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=27549254562" alt="Eventbrite - Kursus: Kom i gang med R" /></a>

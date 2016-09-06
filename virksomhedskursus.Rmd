@@ -1,0 +1,25 @@
+---
+title: "Virksomhedskursus i R"
+---
+
+**Virksomhedskursus i R** tager udgangspunkt i din virksommhed. Det er et to-dages forløb, der indeholder samme elementer som [**Kom i gang med R**](komigang.html), men hvor vi går mere i dybden med de enkelte dele. Kurset indeholder også tid til sidst på andendagen, hvor vi kan se nærmere på netop de problemstillinger din virksomhed har.
+
+Læs mere om [**Kom i gang med R**](komigang.html)
+
+### Deltagere
+Kurset henvender sig til personer, der ikke har nogen eller kun ret få R kundskaber.
+Der kan være op til 4 deltagere på kurset.
+
+### Sted
+Din virksomhed. Der kan komme tillæg på, hvis din virksomhed ligger uden for hovedstadsområdet.
+
+Varighed: ca. 7 timer
+
+### Kursusform
+Instruktør-undervisning
+
+### Pris
+30.000 DKK, ex moms
+
+## Book nu
+Ring til os på +45 3033 3204 og hør nærmere om mulighederne
