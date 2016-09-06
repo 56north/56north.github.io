@@ -1,0 +1,13 @@
+name: "rkursus"
+output_dir: "."
+navbar:
+  title: "R kursus"
+  left:
+    - text: "staRt"
+      href: index.html
+    - text: "Kurser"
+      menu:
+        - text: "Kom i gang med R"
+          href: grundlaeggende.html
+    - text: "Om os"
+      href: about.html
