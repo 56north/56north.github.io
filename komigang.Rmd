@@ -1,8 +1,10 @@
 ---
 title: "Kursus: Kom i gang med R"
 ---
+Næste kursus er 19. oktober 2016 
+<br>
 <a href="http://www.eventbrite.com/e/kursus-kom-i-gang-med-r-tickets-27549254562?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=27549254562" alt="Eventbrite - Kursus: Kom i gang med R" /></a>
-
+<br><br>
 **Kom i gang med R** er et rigtigt godt begynder kursus i R, til dem som aldrig har arbejdet med R før eller som har været væk fra R i et stykke tid.
 
 Fokus er på at få dig i gang med med R. Det betyder at du lærer, hvordan du læser data ind, hvordan du manipulerer med data, hvordan du analyserer på data og hvordan du visualiserer dit data.
@@ -48,6 +50,9 @@ Instruktør-undervisning
 ### Pris
 5.000 DKK, ex moms
 
+Næste kursus er 19. oktober 2016 
+<br>
 <a href="http://www.eventbrite.com/e/kursus-kom-i-gang-med-r-tickets-27549254562?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=27549254562" alt="Eventbrite - Kursus: Kom i gang med R" /></a>
+<br><br>
 
 **OBS: Kurserne gennemføres kun, hvis der er nok tilmeldte.**
