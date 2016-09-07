@@ -4,6 +4,6 @@ title: "Om os"
 
 R kurserne køres af [*56north*](http://www.56n.dk/), der er en mindre data science virksomhed, der beskæftiger dig med skræddersyede analyseopgaver samt undervisning i R.
 
-Direktøren for det hele er [*Mikkel Freltoft Krogsholm*](https://dk.linkedin.com/in/mikkelkrogsholm), der også har skrevet ebogen: [*Kom i gang med R*](https://www.saxo.com/dk/kom-i-gang-med-r_pdf_9788799924905).
+Direktøren for det hele er [*Mikkel Freltoft Krogsholm*](https://www.linkedin.com/in/mikkelkrogsholm), der også har skrevet ebogen: [*Kom i gang med R*](https://www.saxo.com/dk/kom-i-gang-med-r_pdf_9788799924905).
 
 
