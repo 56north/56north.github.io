@@ -23,4 +23,4 @@ navbar:
 html_document:
   theme: flatly
   include:
-    before_body: header.html
+    in_header: header.html
