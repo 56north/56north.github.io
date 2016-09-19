@@ -22,3 +22,5 @@ navbar:
       href: https://www.saxo.com/dk/kom-i-gang-med-r_pdf_9788799924905
 html_document:
   theme: flatly
+  include:
+    after_body: header.html
