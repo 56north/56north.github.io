@@ -1,7 +1,6 @@
 ---
 title: "Kursus: Kom i gang med R"
 ---
-Næste kursus er 19. oktober 2016 
 <br>
 <a href="http://www.eventbrite.com/e/kursus-kom-i-gang-med-r-tickets-27549254562?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=27549254562" alt="Eventbrite - Kursus: Kom i gang med R" /></a>
 <br><br>

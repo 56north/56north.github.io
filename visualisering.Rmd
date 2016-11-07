@@ -1,6 +1,9 @@
 ---
 title: "Kursus: Datavisualisering i R"
 ---
+<br>
+<a href="http://www.eventbrite.com/e/datavisualisering-i-r-tickets-24905183073?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=24905183073" alt="Eventbrite - Datavisualisering i R" /></a>
+<br><br>
 **Datavisualisering i R** er til dig, der allerede arbejder med R og som ønsker at blive bedre til at visualisere dine data og analyser. Her lærer du en række grundlæggende designprincipper, der vil gøre dig i stand til bedre og mere klart at kommunikere dit budskab og dine analyser.
 
 Bruger du ikke allerede R, bør du starte med Kom i gang med R kurset.
@@ -30,5 +33,10 @@ Instruktør-undervisning
 
 ### Pris
 5.000 DKK, ex moms
+
+Se næste kursus her:
+<br>
+<a href="http://www.eventbrite.com/e/datavisualisering-i-r-tickets-24905183073?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=24905183073" alt="Eventbrite - Datavisualisering i R" /></a>
+<br><br>
 
 **OBS: Kurserne gennemføres kun, hvis der er nok tilmeldte.**
