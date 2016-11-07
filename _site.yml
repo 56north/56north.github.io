@@ -10,6 +10,8 @@ navbar:
       menu:
         - text: "Kom i gang med R"
           href: komigang.html
+        - text: "Datavisualisering i R"  
+          href: visualisering.html
         - text: "Virksomhedskursus i R"
           href: virksomhedskursus.html
     - text: "Om os"

@@ -19,13 +19,12 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/default.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -152,7 +151,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -192,6 +190,9 @@ $(document).ready(function () {
   <ul class="dropdown-menu" role="menu">
     <li>
       <a href="komigang.html">Kom i gang med R</a>
+    </li>
+    <li>
+      <a href="visualisering.html">Datavisualisering i R</a>
     </li>
     <li>
       <a href="virksomhedskursus.html">Virksomhedskursus i R</a>
@@ -234,7 +235,7 @@ $(document).ready(function () {
 
 <p>R er super fedt. Men den fornemmelse har du nok allerede fået siden du har valgt at klikke ind på denne side. Faktisk er denne hjemmeside skrevet i R ved hjælp af lidt Rmarkdown magic.</p>
 <p>R er en af grundstenene i moderne data science. R har udviklet sig fra primært at være et statistisk værktøj, til nu at være data science’s svar på fold-ud-kniven. Med R kan du fx lave avancerede analyser, der indhenter data gennem API’er eller webskrab og spytter det ud i flotte interaktive visualiseringer.</p>
-<p>Dertil kommer at R er open source og gratis. Det betyder at du kan komme i gang med det samme, uden at have den store pengepung op af lommen til dyre softwarelicenser. Det er også R’s open source baggrund, der gør, at der hver dag bliver lavet nye udvidelser til R. Det er disse udvidelser, der især gør R til et meget kraftfuldt værktøj. I skrivende stund har R mere end <strong>9200</strong> udvidelser! Med alt fra psykometriske analyser til skabelsen af interaktive kort. Da denne hjemmeside er skrevet i R, sørger R iøvrigt for at opdatere det tal, hver gang jeg opdaterer siden - smart!</p>
+<p>Dertil kommer at R er open source og gratis. Det betyder at du kan komme i gang med det samme, uden at have den store pengepung op af lommen til dyre softwarelicenser. Det er også R’s open source baggrund, der gør, at der hver dag bliver lavet nye udvidelser til R. Det er disse udvidelser, der især gør R til et meget kraftfuldt værktøj. I skrivende stund har R mere end <strong>9500</strong> udvidelser! Med alt fra psykometriske analyser til skabelsen af interaktive kort. Da denne hjemmeside er skrevet i R, sørger R iøvrigt for at opdatere det tal, hver gang jeg opdaterer siden - smart!</p>
 <p>Men R har også en stejl læringskurve. Du skal lære at kode - det er der ingen vej uden om. Men når du er kommet op på toppen af læringskurven, så er udsigten helt fantastisk og du har næsten uanede analysemuligheder.</p>
 <p>Jeg vil gerne hjælpe dig på vej op af kurven. Der er tre nemme trin, der kan få dig i gang:</p>
 <ol style="list-style-type: decimal">
@@ -242,7 +243,7 @@ $(document).ready(function () {
 <li>Tilmeld dig mit <a href="http://eepurl.com/ceuXhL"><strong>nyhedsbrev</strong></a>, der indeholder fede tips til R</li>
 <li>Meld dig på et af kurserne her på siden</li>
 </ol>
-<p>Næste kursus er 19. oktober 2016 <br> <a href="http://www.eventbrite.com/e/kursus-kom-i-gang-med-r-tickets-27549254562?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=27549254562" alt="Eventbrite - Kursus: Kom i gang med R" /></a> <br><br></p>
+<p>Kursus: <br> <a href="http://www.eventbrite.com/e/kursus-kom-i-gang-med-r-tickets-27549254562?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=27549254562" alt="Eventbrite - Kursus: Kom i gang med R" /></a> <br><br></p>
 
 
 
@@ -252,8 +253,11 @@ $(document).ready(function () {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 

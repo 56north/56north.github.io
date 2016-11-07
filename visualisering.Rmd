@@ -1,0 +1,34 @@
+---
+title: "Kursus: Datavisualisering i R"
+---
+**Datavisualisering i R** er til dig, der allerede arbejder med R og som ønsker at blive bedre til at visualisere dine data og analyser. Her lærer du en række grundlæggende designprincipper, der vil gøre dig i stand til bedre og mere klart at kommunikere dit budskab og dine analyser.
+
+Bruger du ikke allerede R, bør du starte med Kom i gang med R kurset.
+
+### Udbytte
+I Datavisualisering i R får du svar på:
+
+* Hvad er principperne bag en god visualisering?
+* Hvilke pakker kan jeg bruge til at visualisere mine data?
+* Hvordan laver jeg flotte grafikker i R?
+* Hvordan laver jeg interaktive grafikker i R?
+* Hvordan eksporterer jeg mine grafikker i R?
+
+### Deltagere
+Kurset henvender sig til personer, der  allerede arbejder med R og ønsker at blive bedre til at formidle deres data og analyser.
+
+### Du får
+* Frokost / Aftensmad     
+* Masser af opgaver til forskellige emner     
+* Hjælp til dine egne opgaver i R. Tag dem med så ser vi på dem sammen
+
+### Varighed
+ca. 7 timer
+
+### Kursusform
+Instruktør-undervisning
+
+### Pris
+5.000 DKK, ex moms
+
+**OBS: Kurserne gennemføres kun, hvis der er nok tilmeldte.**
